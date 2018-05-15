@@ -1,0 +1,14 @@
+{
+	"ImageClassification": [
+		"BuildLogisticRegressionModel",
+		"BuildANNModel2Layers",
+		"BuildANNModel3Layers",
+		"BuildConvNet1",
+		"BuildConvNet2"
+	],
+	"Classification": [
+		"BuildLogisticRegressionModel",
+		"BuildANNModel2Layers",
+		"BuildANNModel3Layers"
+	]
+}
